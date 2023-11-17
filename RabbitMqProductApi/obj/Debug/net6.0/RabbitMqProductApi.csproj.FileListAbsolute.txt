@@ -1,5 +1,3 @@
-C:\Projetos\RabbitMqProductApi\RabbitMqProductApi\bin\Debug\net6.0\appsettings.Development.json
-C:\Projetos\RabbitMqProductApi\RabbitMqProductApi\bin\Debug\net6.0\appsettings.json
 C:\Projetos\RabbitMqProductApi\RabbitMqProductApi\bin\Debug\net6.0\RabbitMqProductApi.exe
 C:\Projetos\RabbitMqProductApi\RabbitMqProductApi\bin\Debug\net6.0\RabbitMqProductApi.deps.json
 C:\Projetos\RabbitMqProductApi\RabbitMqProductApi\bin\Debug\net6.0\RabbitMqProductApi.runtimeconfig.json
@@ -69,3 +67,5 @@ C:\Projetos\RabbitMqProductApi\RabbitMqProductApi\obj\Debug\net6.0\refint\Rabbit
 C:\Projetos\RabbitMqProductApi\RabbitMqProductApi\obj\Debug\net6.0\RabbitMqProductApi.pdb
 C:\Projetos\RabbitMqProductApi\RabbitMqProductApi\obj\Debug\net6.0\RabbitMqProductApi.genruntimeconfig.cache
 C:\Projetos\RabbitMqProductApi\RabbitMqProductApi\obj\Debug\net6.0\ref\RabbitMqProductApi.dll
+C:\Projetos\RabbitMqProductApi\RabbitMqProductApi\bin\Debug\net6.0\appsettings.Development.Development.json
+C:\Projetos\RabbitMqProductApi\RabbitMqProductApi\bin\Debug\net6.0\appsettings.Development.json
