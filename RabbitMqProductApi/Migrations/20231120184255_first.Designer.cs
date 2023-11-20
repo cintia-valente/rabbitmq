@@ -11,7 +11,7 @@ using RabbitMqProductApi.Data;
 namespace RabbitMqProductApi.Migrations
 {
     [DbContext(typeof(DbContextClass))]
-    [Migration("20231114202150_first")]
+    [Migration("20231120184255_first")]
     partial class first
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
